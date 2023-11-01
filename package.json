@@ -1,0 +1,26 @@
+{
+  "name": "ts-no-throw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinceduong/ts-no-throw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinceduong/ts-no-throw/issues"
+  },
+  "homepage": "https://github.com/vinceduong/ts-no-throw#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  },
+  "dependencies": {
+    "space-lift": "^1.0.4"
+  }
+}
